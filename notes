@@ -5,3 +5,7 @@ in this class we can learn how to code with python languagae and do some pull an
 first change will be: git init it will connect to the git hub account using terminal
 
 the second change will be: git status, I can use this comment to see my changes or what I created.
+
+3) git add . - and I can use add this changes to staging areas
+
+4) git commit -m "here you can leave your description what u created or any changges"
