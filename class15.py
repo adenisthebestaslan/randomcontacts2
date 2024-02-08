@@ -14,9 +14,12 @@ new = list(now3)
 print(new)
 done = 0
 listo = 0
-while listo < 5:
+while listo < len(new):
     if new[listo] == 'o':
         new[listo] = 'a'
     else:
         listo += 1
 print(new)
+
+final = ''.join(new)
+print(final)

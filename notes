@@ -57,3 +57,22 @@ Here, only the first occurrence of "world" is replaced with "there".
 Remember that strings in Python are immutable, so the replace() method doesn't modify the original string but creates a new string with the replacements
 https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string.
 https://pynative.com/python-range-function/
+
+some code: string = 'hello world'
+now = string.split()
+one = now[0] 
+two = now[1]
+now3 = one + " " + two
+new = list(now3)
+print(new)
+done = 0
+listo = 0
+while listo < len(new):
+    if new[listo] == 'o':
+        new[listo] = 'a'
+    else:
+        listo += 1
+print(new)
+
+final = ''.join(new)
+print(final)
