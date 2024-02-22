@@ -1,4 +1,0 @@
-you can always use append
-
-
-Ah, got it! In many programming languages, including Python, the double forward slash // is used for integer division. So, if you do 8 // 6, it will give you the result of the division as an integer, discarding any remainder.
