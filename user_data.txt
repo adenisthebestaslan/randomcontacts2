@@ -1,27 +1,5 @@
-Name: Aden
-Email: aden@gmail.com
-Address: 20005 sdafds
-Password:  bvg8
-Name: asfd
-Email: asdfas
-Address: dasfasdf
-Password: asdfadsfs
-Name: Aden
-Email: aden@gmail.com
-Address: 20003 Ackeln 
-Password: wertyuio
-     
- Name: skvgbhnjklEmail: gtyhbytrAddress: gfdgsPassword: fsfds
-     
- Name: cvdfgdg Email: gfdgfd Address: gdfgdf Password: abc
-     
- Name: abc, Email: abc, Address: abc, Password: abc
-,     
- Name: asdsdfdsfx, Email: asfddsfdf, Address: dfdfdfsd, Password: z
-,     
- Name: asdsdfdsfx, Email: asfddsfdf, Address: dfdfdfsd, Password: z
-,     
- Name: asdsdfdsfx, Email: asfddsfdf, Address: dfdfdfsd, Password: z
-,     
- Name: asdfghjuik, areacode: sdfghjuio, rest of phone: asdrfty, Password: a
-,
+Name: aa, areacode: aa, rest of phone: aa, Password: aa bio: aa
+Name: asd, areacode: sg, rest of phone: sdd, Password: asas bio: a
+Name: Aden, phonenumber: 12234598492138,  bio: fsdfgfgsdfg
+Name: josh, phonenumber: 23439248932849,  bio: sdfafsdf
+Name: sadfasd, phonenumber: 23432432,  bio: asdfasddf
